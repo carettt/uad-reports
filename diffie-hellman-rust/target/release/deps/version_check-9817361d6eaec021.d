@@ -1,0 +1,10 @@
+C:\Users\Diego Andrade\Documents\CMP110\diffie-hellman-rust\target\release\deps\version_check-9817361d6eaec021.rmeta: C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Diego Andrade\Documents\CMP110\diffie-hellman-rust\target\release\deps\libversion_check-9817361d6eaec021.rlib: C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Diego Andrade\Documents\CMP110\diffie-hellman-rust\target\release\deps\version_check-9817361d6eaec021.d: C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs:
+C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs:
+C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs:
+C:\Users\Diego\ Andrade\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs:
