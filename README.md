@@ -5,3 +5,4 @@ Here is a collection of all the academic reports and projects I have written so 
 - Diffie-Hellman Key Exchange
 - CMP204 Coursework Website
 - Autonomous Boids Extended (report only, code [here](https://github.com/carettt/autonomous-boids-extended))
+- PEScan - Streamlined Malware Analysis (report only, code [here](https://github.com/carettt/pescan))
