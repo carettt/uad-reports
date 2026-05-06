@@ -6,3 +6,4 @@ Here is a collection of all the academic reports and projects I have written so 
 - CMP204 Coursework Website
 - Autonomous Boids Extended (report only, code [here](https://github.com/carettt/autonomous-boids-extended))
 - PEScan - Streamlined Malware Analysis (report only, code [here](https://github.com/carettt/pescan))
+- A Comparison of Multi-Class Classification Models for NetFlow Anomaly Detection (Dissertation) (report only, code: [here](https://github.com/carettt/IP2Vec) and [here](https://github.com/carettt/cuervo))
